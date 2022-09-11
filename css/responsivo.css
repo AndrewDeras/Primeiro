@@ -21,8 +21,8 @@
     text-align: center;
     overflow: hidden;
 }
-nav{
-    display: none;
+/* nav{
+    display: none; */
 }
 input, textarea{
     width: auto;
