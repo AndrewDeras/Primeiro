@@ -1,3 +1,4 @@
+/* FONTES */
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600;700;800;900&family=Lobster&family=Playfair+Display&family=Roboto+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
@@ -35,15 +36,11 @@ nav a{
 }
 nav a:hover{
     border-top: 2px solid #f5d001;
-
 }
-
 /*  NOME */
 .nome{
     height: 100px;
-    /* background: grey; */
     text-align: center;
-    /* border: 1px solid black; */
     height: 100px;
     flex-flow: row;
     justify-content: center;
@@ -54,10 +51,8 @@ nav a:hover{
     font-family: 'Lobster', cursive;
     font-size: 50px;
 }
-
 /* SOBRE MIM */
 .header{
-    /* background: grey; */
     height: auto;
     display: flex;
     flex-flow: row wrap;
@@ -66,7 +61,6 @@ nav a:hover{
 .sobre-mim{
     margin-right: 10%;
     flex: 40%;
-    /* border: 3px solid black; */
     text-align: center;
     padding: 30px;
     box-shadow: #7e43b4 0px 14px 28px, #7e43b4 0px 10px 10px;
@@ -80,12 +74,10 @@ nav a:hover{
     text-align: justify;
     color: rgba(255, 255, 255, 0.918);
     font-size: 18px;
-
 }
 .img-prof{
     margin-left: 10%;
     flex: 40%;
-    /* border: 3px solid yellow; */
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -95,12 +87,9 @@ nav a:hover{
     border-radius: 100%;
     margin-top: 25%;
 }
-
-
 /* INTERESSES E HOBBIES */
 .intereses-titulo{
     margin-top: 0;
-    /* border: 2px solid rgb(245, 208, 1); */
     width: 100%;
     height: auto;
     display: flex;
@@ -118,13 +107,11 @@ nav a:hover{
     height: auto;
     display: flex;
     flex-flow: row wrap;  
-    /* border: 1px solid red;  */
 }
 .intereses-box{
     flex: 80%;
     margin-left: 10%;
     margin-right: 10%;
-    /* border: 3px solid white;  */
     justify-content: center;
     align-items: center;
     padding: 30px;
@@ -137,12 +124,9 @@ nav a:hover{
     font-size: 32px;
     font-family: 'Roboto Condensed', sans-serif;
 }
-
-
 /* CONTATOS E FORMULÁRIO */
 .contato-titulo{
     margin-top: 0;
-    /* border: 2px solid rgb(245, 208, 1); */
     width: 100%;
     height: auto;
     display: flex;
@@ -164,7 +148,6 @@ nav a:hover{
     box-shadow: #f5d001 0px 14px 28px, #f5d001 0px 10px 10px;
 }
 .contato-rss{
-    /* border: 1px solid white; */
     height: 75px;
     justify-content: space-around;
     margin-bottom: 10px;
@@ -173,7 +156,6 @@ nav a:hover{
 .formulario{
     color: white;
     text-align: center;
-    /* border: 1px solid orangered; */
 }
 h3 {
     margin-bottom: 20px;
@@ -218,8 +200,6 @@ form label {
     color: #FFFFFF;
     font-weight: bold;
 }
-
-
 /* RODAPÉ */
 footer{
     display: flex;
@@ -232,7 +212,6 @@ footer{
     margin-top: 30px;
     margin-bottom: 25px;
     color: white;
-    /* border: 2px solid white; */
     text-align: center;
     justify-content: center;
     font-size: 30px;
