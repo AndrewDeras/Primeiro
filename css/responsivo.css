@@ -14,4 +14,7 @@
 nav{
     display: none;
 }
+input, textarea{
+    width: auto;
+}
 }
