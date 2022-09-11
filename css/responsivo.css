@@ -21,8 +21,9 @@
     text-align: center;
     overflow: hidden;
 }
-/* nav{
-    display: none; */
+.navbar{
+    text-align: center;
+    margin: 0;
 }
 input, textarea{
     width: auto;
@@ -35,4 +36,5 @@ label{
 }
 /* .formulario{
     display: none;
-} */
+}  */
+}
