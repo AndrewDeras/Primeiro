@@ -1,0 +1,4 @@
+#7e43b4 roxo
+#f5d001 amarelo
+   background: rgba(7, 7, 7, 0.89);
+rgba(7, 7, 7, 0.89);
