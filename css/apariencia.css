@@ -15,7 +15,9 @@ nav{
     position: fixed;
     top: 0;
     left: 0%;
-    width: 100%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-bottom: 20px;
     background: rgb(32, 31, 31);
 }
