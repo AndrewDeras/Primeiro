@@ -101,6 +101,7 @@ nav a:hover{
     color: #f5d001;
     font-size: 50px;
     font-family: 'Lobster', cursive;
+    padding: 15px;
 }
 .intereses-body{
     margin-top: 0; 
@@ -138,6 +139,7 @@ nav a:hover{
     color: #f5d001;
     font-size: 50px;
     font-family: 'Lobster', cursive;
+    padding: 15px;
 }
 .contato-body{
     display: flex;
