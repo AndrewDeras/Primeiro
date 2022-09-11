@@ -69,7 +69,7 @@ nav a:hover{
     /* border: 3px solid black; */
     text-align: center;
     padding: 30px;
-    box-shadow: 5px 5px 15px #7e43b4;
+    box-shadow: #7e43b4 0px 14px 28px, #7e43b4 0px 10px 10px;
 }
 .sobre-mim h2{
     font-family: 'Lobster', cursive;
@@ -89,7 +89,7 @@ nav a:hover{
     justify-content: center;
     align-items: center;
     text-align: center;
-    box-shadow: 5px 5px 15px #f5d001;
+    box-shadow: #f5d001 0px 14px 28px, #f5d001 0px 10px 10px;
 }
 .img-prof img{
     border-radius: 100%;
@@ -128,7 +128,7 @@ nav a:hover{
     justify-content: center;
     align-items: center;
     padding: 30px;
-    box-shadow: 5px 5px 15px rgb(126, 67, 180);
+    box-shadow: #7e43b4 0px 14px 28px, #7e43b4 0px 10px 10px;
 }
 .intereses-body p{
     list-style-type: none;
@@ -161,7 +161,7 @@ nav a:hover{
     margin-left: 10%;
     margin-right: 10%;
     padding: 30px;
-    box-shadow: 5px 5px 15px #f5d001;
+    box-shadow: #f5d001 0px 14px 28px, #f5d001 0px 10px 10px;
 }
 .contato-rss{
     /* border: 1px solid white; */
@@ -226,7 +226,7 @@ footer{
     flex-direction: column;
     margin-top: 4%;
     height: 100px;
-    box-shadow: 5px 5px 15px #7e43b4;
+    box-shadow: #7e43b4 0px 14px 28px, #7e43b4 0px 10px 10px;
 }
 .referencia h5 {
     margin-top: 30px;
