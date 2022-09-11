@@ -54,6 +54,7 @@ nav a:hover{
     font-family: 'Lobster', cursive;
     font-size: 50px;
 }
+
 /* SOBRE MIM */
 .header{
     /* background: grey; */
@@ -94,6 +95,8 @@ nav a:hover{
     border-radius: 100%;
     margin-top: 25%;
 }
+
+
 /* INTERESSES E HOBBIES */
 .intereses-titulo{
     margin-top: 0;
@@ -134,6 +137,8 @@ nav a:hover{
     font-size: 32px;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+
 /* CONTATOS E FORMULÁRIO */
 .contato-titulo{
     margin-top: 0;
@@ -212,6 +217,8 @@ form label {
     color: #FFFFFF;
     font-weight: bold;
 }
+
+
 /* RODAPÉ */
 footer{
     display: flex;

@@ -1,4 +1,4 @@
-@media screen and (max-width:700px){ 
+@media screen and (max-width:750px){ 
  .nome{
     font-size: 5px;
     flex-flow: column nowrap;
@@ -14,6 +14,12 @@
 }
 .img-prof, .nome, .sobre-mim, .intereses-body, .contato-rss{
     height: auto;
+}
+.img-prof{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    overflow: hidden;
 }
 nav{
     display: none;
