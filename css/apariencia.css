@@ -32,7 +32,6 @@ nav a{
     text-decoration: none;
     font-family: 'Roboto Condensed', sans-serif;
     color: #f5d001;
-    /* border: 1px solid #f5d001; */
     border-radius: 5px;
     padding: 5px;
 }
@@ -156,6 +155,10 @@ nav a:hover{
     justify-content: space-around;
     margin-bottom: 10px;
     text-align: center;
+}
+.contato-rss a:hover{
+    border-bottom: 5px solid #f5d001;
+    border-radius: 5px;
 }
 .formulario{
     color: white;
