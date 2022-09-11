@@ -3,10 +3,6 @@
     font-size: 5px;
     flex-flow: column nowrap;
  }   
- h3{
-    display: none;
- }
-
 .header{
     flex-flow: column wrap;
 }
@@ -15,6 +11,9 @@
 }
 .img-prof{
     margin-left: 2%;
+}
+.img-prof, .nome, .sobre-mim, .intereses-body, .contato-rss{
+    height: auto;
 }
 nav{
     display: none;
