@@ -184,6 +184,7 @@ form {
     font-size: 15px;
 }
 input, textarea {
+    background: #7e43b4;
     width: 200px;
     padding: 10px;
     color: black;
@@ -199,7 +200,7 @@ input:hover, textarea:hover, input:focus, textarea:focus {
     font-weight: bold;
 }
 .enviar {
-    background-color: #7e43b4;
+    background-color: #f5d001;
     height: 40px;
     width: 100px;
     font-weight: bold;
