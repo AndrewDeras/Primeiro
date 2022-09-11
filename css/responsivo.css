@@ -1,16 +1,24 @@
 @media screen and (max-width:750px){ 
- .nome{
+ /* NOME + NAV */
+     .nome{
     font-size: 5px;
     flex-flow: column nowrap;
- }   
-.header{
+ } 
+ .navbar{
+    text-align: center;
+    margin: 0;
+}
+ /* SOBRE MIM + FOTO  */
+ .header{
     flex-flow: column wrap;
 }
 .sobre-mim{
     margin-right: 2%;
+    box-shadow: #7e43b4 0px 5px 10px;
 }
 .img-prof{
     margin-left: 2%;
+    box-shadow: #f5d001 0px 5px 10px;
 }
 .img-prof, .nome, .sobre-mim, .intereses-body, .contato-rss{
     height: auto;
@@ -21,9 +29,18 @@
     text-align: center;
     overflow: hidden;
 }
-.navbar{
+ /*INTERESSES E HOBBIES  */
+.intereses-box{
+    box-shadow: #7e43b4 0px 5px 10px;   
+}
+.intereses-titulo{
     text-align: center;
-    margin: 0;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+/* CONTATO + FORMULÁRIO */
+ .contato-body{
+    box-shadow: #f5d001 0px 5px 10px; 
 }
 input, textarea{
     width: auto;
@@ -34,7 +51,8 @@ footer{
 label{
     margin-top: 10px;
 }
-/* .formulario{
-    display: none;
-}  */
 }
+  
+
+
+
